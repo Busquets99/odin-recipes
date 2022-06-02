@@ -1,0 +1,23 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.center.pancake {
+    height: auto;
+    width: 500px;
+}
+
+.container{
+    background-color: blue;
+}
+
+div h1{
+    text-align: center;
+}
+div a{
+    font-size: 25px;
+    color: black;
+}
